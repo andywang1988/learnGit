@@ -1,2 +1,2 @@
 git is distribution  verson control soft
-git is free soft
+git is free software distributed under GPL
