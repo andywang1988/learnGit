@@ -11,3 +11,5 @@ create a new branch with git at master and feature_1
 
 
 create a new dev branch
+
+test merge with FF feature_1
