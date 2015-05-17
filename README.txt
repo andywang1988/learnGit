@@ -5,3 +5,5 @@ we has a mute stage
 Git Track changes of files
 
 Git push master to origin
+
+create a new branch with git
